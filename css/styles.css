@@ -205,12 +205,12 @@ input:focus, textarea:focus {
 
 footer {
 	border-top: 1px solid #eee;
-	text-align: center;
 }
 
-.footer {
+.power {
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
+	text-align: center;
 	font-size: 0.6rem;
 	font-weight: 300;
 	letter-spacing: 2px;
